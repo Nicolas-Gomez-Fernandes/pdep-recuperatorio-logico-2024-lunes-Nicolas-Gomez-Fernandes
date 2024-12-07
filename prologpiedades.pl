@@ -56,7 +56,7 @@ esBarataUnaPropiedad(departamento(1, _)).
 esBarataUnaPropiedad(departamento(2, _)).
 
 
-% PUNTO 4
+% PUNTO 4 SE INTENTO PERO SE FALLO
 tasacion(juan, casa(120), 150000).
 tasacion(nico, departamento(3, 2), 80000).
 tasacion(alf, departamento(2, 1), 75000).
